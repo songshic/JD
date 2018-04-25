@@ -1,5 +1,4 @@
 # JD
-Crawling some information and comments on a class of commodities from the Jingdong
 明确爬取的是某类商品信息和评价内容
 首先我们选择一个品类，“进口牛奶”
 京东页面是动态加载的，为了获得全部的商品信息，需要执行js渲染
